@@ -1,0 +1,25 @@
+_repo: Judaism_6971
+creator:
+  author:
+    agent_name: Abrahams, Israel
+    alias: Abrahams, I. (Israel)
+    birthdate: 1858
+    deathdate: 1925
+    gutenberg_agent_id: '2283'
+    url: http://www.gutenberg.org/2009/agents/2283
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Abrahams
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Judaism'
+title: Judaism
+url: http://www.gutenberg.org/ebooks/6971
